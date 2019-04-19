@@ -1,0 +1,10 @@
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
