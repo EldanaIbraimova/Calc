@@ -31,7 +31,11 @@ namespace NewCalculator
             Button button = sender as Button;
             brain.Process(button.Text);
         }
-        
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 
   

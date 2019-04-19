@@ -258,6 +258,7 @@
             this.textBox1.Size = new System.Drawing.Size(399, 62);
             this.textBox1.TabIndex = 15;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button16
             // 
@@ -296,6 +297,7 @@
             this.button18.TabIndex = 18;
             this.button18.Text = "√";
             this.button18.UseVisualStyleBackColor = false;
+            this.button18.Click += new System.EventHandler(this.BtnClick);
             // 
             // button19
             // 
@@ -308,6 +310,7 @@
             this.button19.TabIndex = 19;
             this.button19.Text = "x²";
             this.button19.UseVisualStyleBackColor = false;
+            this.button19.Click += new System.EventHandler(this.BtnClick);
             // 
             // button20
             // 
@@ -320,6 +323,7 @@
             this.button20.TabIndex = 20;
             this.button20.Text = "1/x";
             this.button20.UseVisualStyleBackColor = false;
+            this.button20.Click += new System.EventHandler(this.BtnClick);
             // 
             // Form1
             // 

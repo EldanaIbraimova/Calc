@@ -81,6 +81,7 @@ namespace NewCalculator
             }
             else
             {
+                MessageBox.Show("lalalala");
                 if (Rules.IsDigit(msg))
                 {
                     AccumulateDigits(msg, true);
@@ -105,6 +106,7 @@ namespace NewCalculator
             if (isInput)
             {
                 calcState = CalcState.Operation;
+                MessageBox.Show("ya ustala");
 
                 if (operation.Length != 0)
                 {
@@ -215,8 +217,12 @@ namespace NewCalculator
             }
             else if (operation == "√")
             {
+
                 double res = int.Parse(tempNumber);
-                tempNumber = (Math.Sqrt(res)).ToString();
+                MessageBox.Show(tempNumber);
+                resultNumber = (Math.Sqrt(res)).ToString();
+                MessageBox.Show(resultNumber);
+
             }
            
         }

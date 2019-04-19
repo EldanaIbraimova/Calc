@@ -8,3 +8,13 @@ C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalcul
 C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
 C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
 C:\Users\AcerNitro5\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
+D:\PP2\Calc\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+D:\PP2\Calc\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+D:\PP2\Calc\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+D:\PP2\Calc\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
