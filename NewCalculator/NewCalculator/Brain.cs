@@ -93,6 +93,10 @@ namespace NewCalculator
                 {
                     Result(msg, true);
                 }
+                else if (Rules.IsOneStep(msg))
+                {
+                    Onestep(msg, true);
+                }
             }
         }
 
@@ -131,25 +135,27 @@ namespace NewCalculator
             {
                 calcState = CalcState.OneStep;
                 operation = msg;
+                MessageBox.Show("do u miss  me?");
                 if(operation.Length > 0)
                 {
+                    MessageBox.Show("and here");
                     Result(msg, true);
                 }
             }
-           /* else
+            else
             {
                 if (Rules.IsResult(msg))
                 {
                     Result(msg, true);
                 }
             }
-            */
         }
 
         void Result(string msg, bool isInput)
         {
             if (isInput)
             {
+                MessageBox.Show("i am here");
                 calcState = CalcState.Result;
                 if (operation.Length != 0 )
                 {
@@ -167,7 +173,7 @@ namespace NewCalculator
                 }
             }
         }
-
+       
         public void MathFunc()
         {
             switch (operation)
